@@ -1,0 +1,12 @@
+{
+    "addons": [
+        {
+            "id": "language_fortran",
+            "version": "0.1",
+            "mod_version": "3",
+            "description": "A syntax highlighter for fortran programming language in lite-xl.",
+            "path": "src/highlight.lua"
+        }
+    ]
+}
+
